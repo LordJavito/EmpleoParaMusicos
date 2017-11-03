@@ -1,0 +1,647 @@
+
+---Downloaded files---
+The import files for: Style 01 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://Empleoparamusicos.000webhostapp.com
+Data file = /storage/ssd2/839/3452839/public_html/wp-content/uploads/2017/10/demo-content-import-file_2017-10-31__12-50-15.xml
+Widget file = /storage/ssd2/839/3452839/public_html/wp-content/uploads/2017/10/demo-widgets-import-file_2017-10-31__12-50-15.json
+Customizer file = not defined!
+Redux files:
+virtue -> /storage/ssd2/839/3452839/public_html/wp-content/uploads/2017/10/demo-redux-import-file_0-2017-10-31__12-50-15.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import "Montainware T-Shirt": Invalid post type product
+[WARNING] Failed to import "Fisherman T-Shirt": Invalid post type product
+[WARNING] Failed to import "Chocolate T-Shirt": Invalid post type product
+[WARNING] Failed to import "Market T-Shirt": Invalid post type product
+[WARNING] Failed to import "Coffee T-Shirt": Invalid post type product
+[WARNING] Failed to import "Mountain Bike T-Shirt": Invalid post type product
+[WARNING] Failed to import "Homebrew Hoodie": Invalid post type product
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Electronics
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Gear
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Pack
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag vinyl
+[WARNING] Failed to import product_tag Wine
+[WARNING] Failed to import product_tag Womans
+[WARNING] Failed to import product_cat Apparel
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_cat Bottle
+[WARNING] Failed to import product_cat Box
+[WARNING] Failed to import product_tag brand
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Business Cards
+[WARNING] Failed to import product_tag cards
+[WARNING] Failed to import product_tag clothing
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Gear Packs
+[WARNING] Failed to import product_cat Hoodie
+[WARNING] Failed to import product_tag ipad
+[WARNING] Failed to import product_tag Iphone
+[WARNING] Failed to import product_tag mac
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import product_tag PSD
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import product_cat T-Shirts
+[WARNING] Failed to import product_tag T-shirts
+[WARNING] Failed to import product_cat Vinyl
+[WARNING] Failed to import product_cat Wine
+[WARNING] Failed to import product_cat Womans
+[WARNING] Failed to import product_cat Mens
+[WARNING] Failed to import "Montainware T-Shirt": Invalid post type product
+[WARNING] Failed to import "Fisherman T-Shirt": Invalid post type product
+[WARNING] Failed to import "Chocolate T-Shirt": Invalid post type product
+[WARNING] Failed to import "Market T-Shirt": Invalid post type product
+[WARNING] Failed to import "Coffee T-Shirt": Invalid post type product
+[WARNING] Failed to import "Mountain Bike T-Shirt": Invalid post type product
+[WARNING] Failed to import "Homebrew Hoodie": Invalid post type product
+
+
+---Importing widgets---
+orphaned_widgets_4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Menú personalizado - Resources - Imported to Inactive
+
+Barra lateral Principal (Primary) : 
+
+Buscar - No Title - Widget already exists
+Virtue: Publicaciones Recientes - No Title - Imported
+
+Footer Column 1 : 
+
+Texto - Virtue Theme - Imported
+
+Footer Column 2 : 
+
+Virtue: Contacto/Vcard - Contact Us - Imported
+Virtue: Redes Sociales - Social - Imported
+
+Footer Column 3 : 
+
+Virtue: Imagen Rejilla | Grid - Recent Projects - Imported
+
+Footer Column 4 : 
+
+Menú personalizado - Resources - Imported
+
+orphaned_widgets_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Buscar - No Title - Imported to Inactive
+
+
+
+---Importing Redux settings---
+Redux settings import for: virtue finished successfully!
