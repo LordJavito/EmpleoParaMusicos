@@ -66,7 +66,9 @@
                </div>
             </div>
           </div>   
-  <?php  endif; ?> 
+  <?php  endif; ?>
+  <!-- Ad 2 -->
+  <?php if (function_exists ('adinserter')) echo adinserter (4); ?>
 </div> <!-- Close Container -->
   <?php do_action('kt_before_secondary_navigation'); 
     
